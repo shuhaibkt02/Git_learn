@@ -1,1 +1,3 @@
 this is second commit
+
+how to change current project state 
