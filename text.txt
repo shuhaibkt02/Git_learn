@@ -9,3 +9,7 @@ issue fix -> created new branch then merge into main branch
 2- git checkout main
 3- git merge newBranch
 4- git push origin main
+
+how to reset or delete last or {}
+1- git reset HEAD~1 --hard = previous one and hard means complete delete
+1 -git reset HEAD~2 => previous one remove and soft reset this will be keep the code with modifed 
