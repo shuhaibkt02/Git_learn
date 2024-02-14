@@ -10,5 +10,17 @@ issue fix -> created new branch then merge into main branch
 3- git merge newBranch
 4- git push origin main
 
+<<<<<<< HEAD
+how to reset or delete last or {}
+1- git reset HEAD~1 --hard = previous one and hard means complete delete
+1 -git reset HEAD~2 => previous one remove and soft reset this will be keep the code with modifed 
+=======
 
 chumma
+>>>>>>> 0d7725d732c0ff4b2e5d6af5ed5742ffdeb15352
+
+when delete the last commit without main push , it will lead to error
+if the error occur 
+you must pull the main branch or branch 
+
+code :{ git pull origin main }
