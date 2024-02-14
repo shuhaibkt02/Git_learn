@@ -27,3 +27,9 @@ code :{ git pull origin main }
 
 
 code from dev and message
+
+
+Nyx Stormfang: “Nyx” represents the night sky, while “Stormfang” embodies the fierce determination of a lone wolf navigating the cosmic wilderness.
+Astrid Wolfsong: “Astrid” evokes the celestial realm, and “Wolfsong” echoes the haunting melody of a wolf’s howl across the starlit expanse.
+Orion Shadowclaw: Drawing from the constellation Orion and the stealthy prowess of a wolf, this name combines cosmic mystery with primal strength.
+Lysander Starthorn: “Lysander” suggests a wanderer lost among the constellations, and “Starthorn” symbolizes resilience and adaptability
