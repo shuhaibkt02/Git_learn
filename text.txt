@@ -9,6 +9,3 @@ issue fix -> created new branch then merge into main branch
 2- git checkout main
 3- git merge newBranch
 4- git push origin main
-
-
-chumma
