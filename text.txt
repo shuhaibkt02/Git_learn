@@ -4,3 +4,8 @@ how to change current project state
 
 something phishy
 
+issue fix -> created new branch then merge into main branch
+1- git branch -b <branch name>
+2- git checkout main
+3- git merge newBranch
+4- git push origin main
